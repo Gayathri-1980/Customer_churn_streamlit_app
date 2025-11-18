@@ -35,7 +35,7 @@ You can adjust inputs using sliders and instantly view:
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 - Python  
 - Streamlit  
 - Scikit-learn  
